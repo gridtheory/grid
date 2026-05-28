@@ -1,0 +1,4 @@
+*.pre-rc2
+*.migrating
+*.tmp
+.DS_Store
